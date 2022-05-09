@@ -1392,9 +1392,9 @@
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
             "SUBREGION": "Caribbean",
-            "NAME_SPA": "Trinidad and Tobago",
+            "NAME_ENG": "Trinidad and Tobago",
             "NAME_SPA": "Trinidad y Tobago"
-            
+
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
             "SUBREGION": "Caribbean",
-            "NAME_SPA": "Trinidad and Tobago",
+            "NAME_ENG": "Trinidad and Tobago",
             "NAME_SPA": "Trinidad y Tobago"
           }
         },
@@ -1472,7 +1472,7 @@
             "featurecla": "Admin-0 scale ranks",
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
-            "SUBREGION": "Caribbean"
+            "SUBREGION": "Caribbean",
             "NAME_SPA": "San Vicente y la Ganadinas",
             "NAME_ENG": "Saint Vincent and the Grenadines"
           }
@@ -1570,7 +1570,7 @@
             "featurecla": "Admin-0 scale ranks",
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
-            "SUBREGION": "Caribbean".
+            "SUBREGION": "Caribbean",
             "NAME_SPA": "Dominica",
             "NAME_ENG": "Dominica"
           }
@@ -1700,7 +1700,7 @@
             "featurecla": "Admin-0 scale ranks",
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
-            "SUBREGION": "Caribbean"
+            "SUBREGION": "Caribbean",
             "NAME_SPA": "San Cristobal y Nieves",
             "NAME_ENG": "Saint Kitts and Nevis"
           }
@@ -1723,7 +1723,7 @@
             "SUBREGION": "Caribbean",
             "NAME_SPA": "San Cristobal y Nieves",
             "NAME_ENG": "Saint Kitts and Nevis"
-            
+
           }
         },
         {
@@ -1759,7 +1759,7 @@
             "featurecla": "Admin-0 scale ranks",
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
-            "SUBREGION": "Caribbean"
+            "SUBREGION": "Caribbean",
             "NAME_ENG": "Antigua and Barbuda",
             "NAME_SPA": "Antigua y Barbuda"
           }
@@ -2071,7 +2071,7 @@
             "featurecla": "Admin-0 scale ranks",
             "CONTINENT": "North America",
             "REGION_UN": "Americas",
-            "SUBREGION": "Caribbean"
+            "SUBREGION": "Caribbean",
             "NAME_SPA": "Granada",
             "NAME_ENG": "Grenada"
           }
@@ -2093,10 +2093,11 @@
             "REGION_UN": "Americas",
             "SUBREGION": "Caribbean",
             "NAME_SPA": "San Vicente y la Ganadinas",
-            "NAME_ENG": "Saint Vincent and the Grenadines"           
+            "NAME_ENG": "Saint Vincent and the Grenadines"
           }
         }
       ]
     }
   }
 }
+
